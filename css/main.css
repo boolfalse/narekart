@@ -1168,13 +1168,13 @@ strong,
       -ms-transform: none;
           transform: none; }
 
-/* 3.3 About page section / .section-about */
-/* about section / .section-about */
-.section-about .content .c-left {
+/* 3.3 About page section / .skills */
+/* about section / .skills */
+.skills .content .c-left {
   float: left;
   width: 66%;
   padding-right: 64px; }
-.section-about .content .c-right {
+.skills .content .c-right {
   float: right;
   width: 34%; }
 
@@ -3386,11 +3386,11 @@ strong,
         .section .content .c-features li:after {
           left: -16px; }
 
-  .section-about .content .c-left {
+  .skills .content .c-left {
     float: none;
     width: 100%;
     padding-right: 0px; }
-  .section-about .content .c-right {
+  .skills .content .c-right {
     float: none;
     width: 100%; }
 
@@ -3505,15 +3505,15 @@ strong,
   .section.alt-bg-2 {
     background: #4394e5; }
 
-  .section-about {
+  .skills {
     padding-bottom: 0; }
-    .section-about .content {
+    .skills .content {
       padding-bottom: 0; }
-      .section-about .content .c-left {
+      .skills .content .c-left {
         float: none;
         width: 100%;
         padding-right: 0px; }
-      .section-about .content .c-right {
+      .skills .content .c-right {
         float: none;
         width: auto;
         margin-right: -32px;
